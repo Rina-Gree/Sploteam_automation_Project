@@ -110,8 +110,6 @@ public class EventsPage {
         public static final String TIME_EVERY_CARD_XPATH = "//*[@id=\"root\"]/div[2]/div[1]/div/div[4]/div/div/div[2]/div[2]/div[1]";
 
         public static final String BEGIN_AND_END_TIME_CLASS = "create-event__time";
-        public static final String BEGIN_AND_END_TIME_CLASS = "create-event__time";
         public static final String CALENDAR_DATE_CLASS = "NavLink_navLink__3OIyY";
 
     }
-}
